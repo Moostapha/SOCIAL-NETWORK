@@ -1,4 +1,4 @@
-# I) APPLICATION DE RESEAU SOCIAL POUR EMPLOYES DU GROUPE GROUPOMANIA
+# APPLICATION DE RESEAU SOCIAL POUR EMPLOYES DU GROUPE GROUPOMANIA
 Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil de communication des posts ou publications
 
 # :point_right: HOME PAGE
@@ -17,7 +17,7 @@ Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil
 <img width="951" alt="socialNetworkLogin" src="https://user-images.githubusercontent.com/43280818/199130318-a2c99047-842d-47a6-b92e-1dd66919a7dd.PNG">
 
 
-# TECHNOLOGIES POUR CE PROJET: 
+# :arrow_right: TECHNOLOGIES POUR CE PROJET: 
 
 # :point_right: Frontend: Vue.js | Bootstrap | VueCLI
 - Vue.js: Framework JavaScript open-source utilisé pour construire des interfaces utilisateur et des applications web monopages (front-end).
@@ -29,7 +29,7 @@ Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil
 
 
 
-# II) EXIGENCES
+# :arrow_right: EXIGENCES
 - la présentation des fonctionnalités doit être simple ;
 - la création d’un compte doit être simple et possible depuis un téléphone mobile ;
 - le profil doit contenir très peu d’informations pour que sa complétion soit rapide ;
@@ -41,7 +41,7 @@ Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil
 
 
 
-# III) COMPETENCES MOBILISEES
+# :arrow_right: COMPETENCES MOBILISEES
 - Personnaliser le contenu envoyé à un client web
 - Implémenter un stockage de données sécurisé en utilisant SQL
 - Gérer un stockage de données à l'aide de SQL
@@ -49,7 +49,7 @@ Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil
 
 
 
-# IV) INSTALLATION DU PROJET
+# :arrow_right: INSTALLATION DU PROJET
 
 # :point_right: Initialisation du projet:
 - Télécharger la dernière version de Node.js sur NodeJS.org
@@ -76,5 +76,5 @@ DATABASENAME = Nom
 - ouvrez votre navigateur à l'adresse indiquée pour y voir apparaitre le frontend dans le navigateur
 
 
-# AUTEUR
+# :arrow_right: AUTEUR
 Moustapha Touré
