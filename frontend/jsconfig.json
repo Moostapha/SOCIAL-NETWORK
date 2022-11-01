@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "esnext",
+        "baseUrl": "./",
+        "paths": {
+            "@/*": ["components/*"]
+        }
+    },
+    "include": [
+        "src/**/*.vue",
+        "src/**/*.js"
+    ]
+}
+
+// Ajout depuis https://vuejs.github.io/vetur/guide/#vue-cli
+// Si on ne use pas typescript dans vue CLI, créer un fichier jsconfig.json
+// à la racine

@@ -1,0 +1,13 @@
+// Requêtes pour les routes post de l'app.
+GET http://localhost:3000/api/post
+
+
+###
+
+// Requêtes des routes comment
+GET http://localhost:3000/api/comment
+
+###
+
+// Requêtes des routes user
+GET http://localhost:3000/api/user
