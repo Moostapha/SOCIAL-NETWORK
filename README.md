@@ -1,19 +1,19 @@
 # I) APPLICATION DE RESEAU SOCIAL POUR EMPLOYES DU GROUPE GROUPOMANIA
 Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil de communication des posts ou publications
 
-# :arrow_right: HOME PAGE
+# :point_right: HOME PAGE
 <img width="948" alt="socialNetworkHomePage" src="https://user-images.githubusercontent.com/43280818/199130157-41f3ee77-203b-4227-b44c-b1cbce4b46e3.PNG">
 
-# :arrow_right: PUBLICATION
+# :point_right: PUBLICATION
 <img width="948" alt="socialNetworkPublication" src="https://user-images.githubusercontent.com/43280818/199130491-7d5b454e-9ad3-435a-94dd-efcc0a1e2b4f.PNG">
 
-# :arrow_right: USER ACCOUNT
+# :point_right: USER ACCOUNT
 <img width="948" alt="socialNetworkAccount" src="https://user-images.githubusercontent.com/43280818/199130682-297f5af3-a5f6-411f-b48c-78c72e5dbcd6.PNG">
 
-# :arrow_right: SIGNUP
+# :point_right: SIGNUP
 <img width="947" alt="socialNetworkSignup" src="https://user-images.githubusercontent.com/43280818/199129986-3735c9e0-1e29-4374-b699-7c41e3a74c65.PNG">
 
-# :arrow_right: LOGIN
+# :point_right: LOGIN
 <img width="951" alt="socialNetworkLogin" src="https://user-images.githubusercontent.com/43280818/199130318-a2c99047-842d-47a6-b92e-1dd66919a7dd.PNG">
 
 
