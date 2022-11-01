@@ -19,10 +19,10 @@ Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil
 
 # TECHNOLOGIES POUR CE PROJET: 
 
-# => Frontend: Vue.js | Bootstrap | VueCLI
+# :point_right: Frontend: Vue.js | Bootstrap | VueCLI
 - Vue.js: Framework JavaScript open-source utilisé pour construire des interfaces utilisateur et des applications web monopages (front-end).
 
-# => Backend: SQL | MySQL | Express.js | Node.js 
+# :point_right: Backend: SQL | MySQL | Express.js | Node.js 
 - Node.js - Environnement d'exécution JavaScript côté serveur (back-end).
 - MySQL - Système de gestion de bases de données relationnelles (back-end).
 - phpMyAdmin - Application Web de gestion pour les systèmes de base de données MySQL (back-end).
