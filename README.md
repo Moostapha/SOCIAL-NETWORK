@@ -51,13 +51,13 @@ Le projet se nomme "Groupomania", un réseau social d'entreprise avec pour outil
 
 # IV) INSTALLATION DU PROJET
 
-# 1) Initialisation du projet:
+# :point_right: Initialisation du projet:
 - Télécharger la dernière version de Node.js sur NodeJS.org
 - ouvrer votre terminal
 - Cloner le repository avec la commande git clone "mon adresse github" avec 2 dossiers frontend et backend
 - Importez la base de donnée groupomania.sql (du dossier backend) sur votre système MySQL
 
-# 2) Backend:
+# :point_right: Backend:
 - Ouvrez un autre terminal tapez cd backend pour accéder à ce dossier
 - Exécutez npm install pour installer les dépendances du projet
 - Exécutez npm install -g nodemon
@@ -69,7 +69,7 @@ PASSWORD = votre mot de passe
 DATABASENAME = Nom
 - Lancez la commande nodemon server.js dans le dossier backend pour vous connecter à la database
 
-# 3) frontend:
+# :point_right: frontend:
 - Ouvrez un autre terminal tapez cd frontend pour accéder à ce dossier
 - Executez npm install pour installer toutes les dépendances du projet
 - Exécutez npm run serve pour lancer le frontend 
